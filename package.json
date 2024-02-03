@@ -1,0 +1,29 @@
+{
+  "name": "zap-jitsu",
+  "version": "1.0.0",
+  "description": "Whatsapp automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitsudev/zap-jitsu.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "Felipe Marinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitsudev/zap-jitsu/issues"
+  },
+  "homepage": "https://github.com/jitsudev/zap-jitsu#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
